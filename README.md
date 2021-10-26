@@ -1,4 +1,4 @@
-# split_bill
+# split_bills
 A project to split bills using flutter - treinaweb course 
 
 
