@@ -1,6 +1,5 @@
 # split_bills
 A project to split bills using flutter - treinaweb course 
 
-
-![image](https://user-images.githubusercontent.com/9489296/138869944-d53a7a8f-9702-443b-bc19-71328f382dc2.png)
+![image](https://user-images.githubusercontent.com/9489296/138871853-884cdc55-d1be-4e59-800f-5a7ecabafc84.png)
 
