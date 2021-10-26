@@ -114,7 +114,7 @@ class _HomePageState extends State<HomePage> {
                     },
                     color: Colors.blue,
                     child: Text(
-                      "Calcular",
+                      "Calculate",
                       style: TextStyle(color: Colors.white, fontSize: 18),
                     ),
                   )),
